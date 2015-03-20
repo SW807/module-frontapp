@@ -1,0 +1,12 @@
+{
+	"name": "frontapp",
+	"_version": 1.0,
+	"tables": [
+		{
+			"name": "frontapp",
+			"columns": [
+				{ "name": "frontapp", "dataType": "TEXT"}
+			]
+		}
+	]
+}
